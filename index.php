@@ -15,8 +15,8 @@
         <section class="p-5 my-2 overflow-y-auto h-[524px]">
             <nav class="flex flex-col gap-4 items-center">
                 <a href="01-class.php" class="bg-red-200 px-4 py-2 text-black/80 rounded w-[280px] opacity-80 hover:scale-105 transition-all hover:opacity-100">01 Class</a>
-                <a href="" class="bg-red-200 px-4 py-2 text-black/80 rounded w-[280px] opacity-80 hover:scale-105 transition-all hover:opacity-100">02 Construct</a>
-                <a href="" class="bg-red-200 px-4 py-2 text-black/80 rounded w-[280px] opacity-80 hover:scale-105 transition-all hover:opacity-100">03 Private</a>
+                <a href="02-constructor.php" class="bg-red-200 px-4 py-2 text-black/80 rounded w-[280px] opacity-80 hover:scale-105 transition-all hover:opacity-100">02 Construct</a>
+                <a href="03-private.php" class="bg-red-200 px-4 py-2 text-black/80 rounded w-[280px] opacity-80 hover:scale-105 transition-all hover:opacity-100">03 Private</a>
                 <a href="" class="bg-red-200 px-4 py-2 text-black/80 rounded w-[280px] opacity-80 hover:scale-105 transition-all hover:opacity-100">04 Collaboration</a>
                 <a href="" class="bg-red-200 px-4 py-2 text-black/80 rounded w-[280px] opacity-80 hover:scale-105 transition-all hover:opacity-100">05 Parameters</a>
                 <a href="" class="bg-red-200 px-4 py-2 text-black/80 rounded w-[280px] opacity-80 hover:scale-105 transition-all hover:opacity-100">06 Extends</a>
